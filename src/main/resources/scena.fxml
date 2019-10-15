@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<?import javafx.geometry.Insets?>
+<StackPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.vse.java.adventura.Controller">
+    <ImageView fx:id="obrazekLokace" />
+    <BorderPane>
+        <bottom>
+            <VBox alignment="CENTER" style="-fx-background-color: rgba(255,255, 255, 0.4);">
+                <Label fx:id="jmenoLokace">
+                   <font>
+                      <Font size="24.0" />
+                   </font>
+                </Label>
+                <Label fx:id="popisLokace">
+                   <font>
+                      <Font size="16.0" />
+                   </font>
+                </Label>
+            </VBox>
+        </bottom>
+        <right>
+            <VBox spacing="10">
+                <padding>
+                    <Insets top="10" bottom="10" left="10" right="10"/>
+                </padding>
+                <!--     Vychody           -->
+                <VBox style="-fx-background-color: rgba(255,255, 255, 0.4);">
+                    <Label text="Východy">
+                        <font>
+                            <Font size="18.0" />
+                        </font>
+                    </Label>
+                </VBox>
+                <!--     Predmety           -->
+                <VBox style="-fx-background-color: rgba(255,255, 255, 0.4);">
+                    <Label text="Předměty">
+                        <font>
+                            <Font size="18.0" />
+                        </font>
+                    </Label>
+                </VBox>
+                <!--     Batoh           -->
+                <VBox style="-fx-background-color: rgba(255,255, 255, 0.4);">
+                    <Label text="Batoh">
+                        <font>
+                            <Font size="18.0" />
+                        </font>
+                    </Label>
+                </VBox>
+            </VBox>
+        </right>
+    </BorderPane>
+</StackPane>

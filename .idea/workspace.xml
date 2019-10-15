@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaGame:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcfba164-04d2-4d46-96a4-edba59361ef7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaGame" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectId" id="1SEGH3aXviDWGIPlSq33Q0OpKpv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="logika" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/cz/vse/vitj07/adventura/logika" />
+      <recent name="$PROJECT_DIR$/src/test.java.cz.vse.vitj07.adventura/logika" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="compile" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.JavaGame.jar">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.Main" />
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BatohTest.jeVolny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logika" />
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.BatohTest" />
+      <option name="METHOD_NAME" value="jeVolny" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProstorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logika" />
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.ProstorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logika" />
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.VecTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VecTest.isPrenositelnost" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logika" />
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.VecTest" />
+      <option name="METHOD_NAME" value="isPrenositelnost" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VelkaVecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logika" />
+      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.VelkaVecTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaGame.jar" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaGame_jar/JavaGame.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JAR Application.JavaGame.jar" />
+      <item itemvalue="JUnit.ProstorTest" />
+      <item itemvalue="JUnit.VecTest" />
+      <item itemvalue="JUnit.VelkaVecTest" />
+      <item itemvalue="JUnit.VecTest.isPrenositelnost" />
+      <item itemvalue="JUnit.BatohTest.jeVolny" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BatohTest.jeVolny" />
+        <item itemvalue="JUnit.VecTest.isPrenositelnost" />
+        <item itemvalue="JUnit.VecTest" />
+        <item itemvalue="JUnit.VelkaVecTest" />
+        <item itemvalue="JUnit.ProstorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcfba164-04d2-4d46-96a4-edba59361ef7" name="Default Changelist" comment="" />
+      <created>1556308175055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556308175055</updated>
+      <workItem from="1556308176462" duration="7485000" />
+      <workItem from="1556444068393" duration="18451000" />
+      <workItem from="1556993627699" duration="25082000" />
+      <workItem from="1557750284491" duration="9000" />
+      <workItem from="1557750327665" duration="20077000" />
+      <workItem from="1558523562440" duration="773000" />
+      <workItem from="1558524443814" duration="1587000" />
+      <workItem from="1566725867501" duration="550000" />
+      <workItem from="1566726648471" duration="66000" />
+      <workItem from="1568697920335" duration="13000" />
+      <workItem from="1568697991761" duration="864000" />
+      <workItem from="1571121261958" duration="3837000" />
+    </task>
+    <task id="LOCAL-00001" summary="README edit">
+      <created>1557753280816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557753280816</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final touches 1.0">
+      <created>1557753824053</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1557753824053</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final touches 1.1">
+      <created>1557754058008</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557754058008</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding java doc comments.">
+      <created>1557940323651</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557940323651</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Final touches 1.2">
+      <created>1557940402573</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1557940402573</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Final touches 1.3&#10;Main changes in dialog text.">
+      <created>1557941544738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1557941544738</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Final touches 1.4&#10;Changes in map design">
+      <created>1557942462296</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1557942462296</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final touches 1.5&#10;Changes in UI">
+      <created>1558263505057</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263505057</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final touches 1.5&#10;Changes in UI 1.1">
+      <created>1558263547163</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263547163</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final touches 1.5&#10;Changes in UI 1.2">
+      <created>1558263767535</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263767535</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Final touches 1.5&#10;Changes in UI 1.3">
+      <created>1558263895443</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263895443</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Final touches 1.5&#10;Changes in UI 1.3.1">
+      <created>1558263915184</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1558263915184</updated>
+    </task>
+    <task id="LOCAL-00013" summary="changes in README">
+      <created>1558295153625</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558295153625</updated>
+    </task>
+    <task id="LOCAL-00014" summary="changes in README">
+      <created>1558296706177</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558296706177</updated>
+    </task>
+    <task id="LOCAL-00015" summary="README changes">
+      <created>1558296874358</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1558296874358</updated>
+    </task>
+    <task id="LOCAL-00016" summary="README changes">
+      <created>1558296924322</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1558296924322</updated>
+    </task>
+    <task id="LOCAL-00017" summary="tests">
+      <created>1558524591897</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1558524591897</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="VelkaVecTest - 2019.05.22 at 12h 43m 53s.xml">
+      <configuration name="VelkaVecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotesTest - 2019.05.22 at 13h 12m 55s.xml">
+      <configuration name="NotesTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PostavaTest - 2019.05.22 at 13h 13m 07s.xml">
+      <configuration name="PostavaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProstorTest_isZamcena - 2019.05.22 at 13h 13m 16s.xml">
+      <configuration name="ProstorTest.isZamcena" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ProstorTest - 2019.05.22 at 13h 13m 26s.xml">
+      <configuration name="ProstorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VecTest - 2019.05.22 at 13h 13m 55s.xml">
+      <configuration name="VecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VelkaVecTest - 2019.05.22 at 13h 14m 02s.xml">
+      <configuration name="VelkaVecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VecTest - 2019.05.22 at 13h 16m 39s.xml">
+      <configuration name="VecTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VecTest_isPrenositelnost - 2019.05.22 at 13h 17m 37s.xml">
+      <configuration name="VecTest.isPrenositelnost" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BatohTest_jeVolny - 2019.05.22 at 13h 18m 09s.xml">
+      <configuration name="BatohTest.jeVolny" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="README edit" />
+    <MESSAGE value="final touches 1.0" />
+    <MESSAGE value="final touches 1.1" />
+    <MESSAGE value="Adding java doc comments." />
+    <MESSAGE value="Final touches 1.2" />
+    <MESSAGE value="Final touches 1.3&#10;Main changes in dialog text." />
+    <MESSAGE value="Final touches 1.4&#10;Changes in map design" />
+    <MESSAGE value="Final touches 1.5&#10;Changes in UI" />
+    <MESSAGE value="Final touches 1.5&#10;Changes in UI 1.1" />
+    <MESSAGE value="Final touches 1.5&#10;Changes in UI 1.2" />
+    <MESSAGE value="Final touches 1.5&#10;Changes in UI 1.3" />
+    <MESSAGE value="Final touches 1.5&#10;Changes in UI 1.3.1" />
+    <MESSAGE value="changes in README" />
+    <MESSAGE value="README changes" />
+    <MESSAGE value="tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaGame$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1556954618579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
