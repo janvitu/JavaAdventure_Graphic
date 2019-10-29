@@ -2,6 +2,7 @@
  * Kontrola kódování: Příliš žluťoučký kůň úpěl ďábelské ódy. */
 package cz.vse.vitj07.adventura.logika;
 
+import cz.vse.vitj07.adventura.uiText.TextoveRozhrani;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;

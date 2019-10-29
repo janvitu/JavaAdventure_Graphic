@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cz.vse.vitj07.adventura</groupId>
-    <artifactId>karkulka</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <name>Karkulka</name>
+    <artifactId>JavaGame</artifactId>
+    <version>1.0.0</version>
+    <name>JavaGame</name>
 
     <dependencies>
         <dependency>

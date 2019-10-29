@@ -18,7 +18,7 @@ public class Controller {
         Prostor aktualniProstor = herniPlan.getAktualniProstor();
 
         jmenoLokace.setText(aktualniProstor.getNazev());
-        popisLokace.setText(aktualniProstor.getPopis());
+        /*popisLokace.setText(aktualniProstor.getPopis());*/
 
         String nazevObrazku = "/" + aktualniProstor.getNazev() + ".jpg";
         Image image = new Image(getClass().getResourceAsStream(nazevObrazku));

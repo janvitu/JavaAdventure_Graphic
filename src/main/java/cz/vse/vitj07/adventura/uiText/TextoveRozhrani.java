@@ -2,17 +2,19 @@ package cz.vse.vitj07.adventura.uiText;             //tady hlásí PMD chybu
 import java.util.Scanner;
 import cz.vse.vitj07.adventura.logika.IHra;
 import java.io.*;
+
 /**
  *  Class TextoveRozhrani
  *
  *  Toto je uživatelského rozhraní aplikace Adventura
  *  Tato třída vytváří instanci třídy Hra, která představuje logiku aplikace.
  *  Čte vstup zadaný uživatelem a předává tento řetězec logice a vypisuje odpověď logiky na konzoli.
+ *  Pokud chcete hrát tuto hru, vytvořte instanci této třídy
+ *  a poté na ní vyvolejte metodu "hraj".
  *
  *
- *
- *@author     Jan Vítů
- *@version    LS rok 2019
+ *@author     Michael Kolling, Lubos Pavlicek, Jarmila Pavlickova
+ *@version    pro školní rok 2014/2015
  */
 
 public class TextoveRozhrani {
@@ -31,7 +33,7 @@ public class TextoveRozhrani {
      *  hodnotu true). Nakonec vypíše text epilogu.
      */
     public void hraj() {
-        System.out.println(hra.vratUvitani());          //nesmím napsat do logiky
+        System.out.println(hra.vratUvitani());
 
         // základní cyklus programu - opakovaně se čtou příkazy a poté
         // se provádějí do konce hry.
@@ -39,31 +41,6 @@ public class TextoveRozhrani {
         while (!hra.konecHry()) {
             String radek = prectiString();
             System.out.println(hra.zpracujPrikaz(radek));
-        }
-
-        System.out.println(hra.vratEpilog());
-    }
-
-    public void hraj(File nazevSouboru) {
-        System.out.println(hra.vratUvitani());
-
-        // základní cyklus programu - opakovaně se čtou příkazy a poté
-        // se provádějí do konce hry.
-        try (BufferedReader ctecka = new BufferedReader (new FileReader(nazevSouboru))){
-            String radek = ctecka.readLine();
-            while (!hra.konecHry() && radek != null) {
-                System.out.println("***"+radek+"***");
-                System.out.println(hra.zpracujPrikaz(radek));
-                radek = ctecka.readLine();
-            }
-
-        }
-        catch(FileNotFoundException e){
-            System.out.println("Soubor s příkazy nenalezen!");
-        }
-
-        catch(IOException e){
-            System.out.println("Chyba vstupu!");
         }
 
         System.out.println(hra.vratEpilog());

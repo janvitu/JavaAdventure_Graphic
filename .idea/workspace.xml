@@ -55,10 +55,6 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
-  </component>
   <component name="ProjectId" id="1SEGH3aXviDWGIPlSq33Q0OpKpv" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
@@ -82,7 +78,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
@@ -91,16 +87,20 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="logika" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/cz/vse/vitj07/adventura/logika" />
-      <recent name="$PROJECT_DIR$/src/test.java.cz.vse.vitj07.adventura/logika" />
-      <recent name="$PROJECT_DIR$/src/main/resources" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cz.vse.vitj07.adventura" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/cz/vse/vitj07/adventura/uiText" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/cz/vse/vitj07/adventura/logika" />
+      <recent name="$PROJECT_DIR$/src/test.java.cz.vse.vitj07.adventura/logika" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -120,13 +120,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JAR Application.JavaGame.jar">
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.vse.vitj07.adventura.Main" />
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.vse.vitj07.adventura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.Main" />
       <module name="JavaGame" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.vse.vitj07.adventura.logika.Start" />
+      <module name="JavaGame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.vse.vitj07.adventura.logika.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,21 +172,6 @@
       <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.BatohTest" />
       <option name="METHOD_NAME" value="jeVolny" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProstorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaGame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="logika" />
-      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.ProstorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -196,41 +207,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VelkaVecTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaGame" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.cz.vse.vitj07.adventura.logika.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="logika" />
-      <option name="MAIN_CLASS_NAME" value="main.java.cz.vse.vitj07.adventura.logika.VelkaVecTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="JavaGame.jar" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/JavaGame_jar/JavaGame.jar" />
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Start" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="JAR Application.JavaGame.jar" />
-      <item itemvalue="JUnit.ProstorTest" />
       <item itemvalue="JUnit.VecTest" />
-      <item itemvalue="JUnit.VelkaVecTest" />
       <item itemvalue="JUnit.VecTest.isPrenositelnost" />
       <item itemvalue="JUnit.BatohTest.jeVolny" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="JUnit.BatohTest.jeVolny" />
         <item itemvalue="JUnit.VecTest.isPrenositelnost" />
         <item itemvalue="JUnit.VecTest" />
-        <item itemvalue="JUnit.VelkaVecTest" />
-        <item itemvalue="JUnit.ProstorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +251,13 @@
       <workItem from="1566726648471" duration="66000" />
       <workItem from="1568697920335" duration="13000" />
       <workItem from="1568697991761" duration="864000" />
-      <workItem from="1571121261958" duration="3837000" />
+      <workItem from="1571121261958" duration="4666000" />
+      <workItem from="1571678270949" duration="45000" />
+      <workItem from="1571678344182" duration="339000" />
+      <workItem from="1571721336358" duration="1023000" />
+      <workItem from="1571722438456" duration="249000" />
+      <workItem from="1571722745299" duration="597000" />
+      <workItem from="1571727078441" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="README edit">
       <created>1557753280816</created>

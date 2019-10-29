@@ -6,6 +6,7 @@ import cz.vse.vitj07.adventura.logika.Hra;
 import cz.vse.vitj07.adventura.logika.IHra;
 import cz.vse.vitj07.adventura.uiText.TextoveRozhrani;
 
+
 /*******************************************************************************
  * Třída  Start je hlavní třídou projektu,
  * který představuje jednoduchou textovou adventuru určenou k dalším úpravám a rozšiřování
@@ -26,7 +27,7 @@ public class Main
         TextoveRozhrani ui = new TextoveRozhrani(hra);
 
         if(args.length > 0){    //délka parametru4
-            ui.hraj(new java.io.File(args[0]));         //délka větší než nula
+            ui.hraj();         //délka větší než nula
         }
         else{               //když tam parametr není, spustí se to normálním způsobem
             ui.hraj();

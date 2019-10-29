@@ -8,7 +8,7 @@
 <?import javafx.scene.text.Font?>
 
 <?import javafx.geometry.Insets?>
-<StackPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.vse.java.adventura.Controller">
+<StackPane prefHeight="600.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="cz.vse.vitj07.adventura.logika.Controller">
     <ImageView fx:id="obrazekLokace" />
     <BorderPane>
         <bottom>
